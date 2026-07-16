@@ -9,7 +9,7 @@ public class YukiCamera : MonoBehaviour
     public float smoothSpeed = 10.0f;    // Độ mượt khi camera di chuyển
 
     private float yaw = 0.0f;
-    private float pitch = 10.0f; // Góc nhìn xuống mặc định
+    private float pitch = 10.0f; 
 
     void Start()
     {
